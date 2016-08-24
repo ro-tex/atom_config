@@ -1,0 +1,7 @@
+optimo_ui:
+  title: "optimo_ui"
+  paths: [
+    "/Users/inovakov/source/optimo_ui"
+    "/Users/inovakov/source/chef"
+    "/Users/inovakov/source/data_science"
+  ]

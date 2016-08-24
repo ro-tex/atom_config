@@ -1,0 +1,47 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "a084b0a4-40e8-478a-a3e0-67180886ef55"
+      analytics: false
+      beautifyEntireFileOnSave: false
+      muteUnsupportedLanguageErrors: true
+    json:
+      indent_with_tabs: true
+      jslint_happy: true
+      preserve_newlines: false
+      space_after_anon_function: true
+      space_in_paren: true
+    ruby:
+      indent_size: 2
+  core:
+    allowPendingPaneItems: false
+    audioBeep: false
+    disabledPackages: [
+      "linter-lintr"
+      "whitespace"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 11
+    invisibles: {}
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
+  latex: {}
+  linter: {}
+  "one-dark-ui": {}
+  script:
+    enableExecTime: false
+  welcome:
+    showOnStartup: false
+".latex.rd.tex.text":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+".r.source":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
