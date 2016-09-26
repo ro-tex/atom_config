@@ -1,7 +1,27 @@
-optimo_ui:
-  title: "optimo_ui"
-  paths: [
-    "/Users/inovakov/source/optimo_ui"
-    "/Users/inovakov/source/chef"
-    "/Users/inovakov/source/data_science"
-  ]
+[
+  {
+    title: "SandRails"
+    group: ""
+    paths: [
+      "/Users/inovakov/source/chef"
+      "/Users/inovakov/source/SandRails"
+    ]
+    icon: "icon-chevron-right"
+    settings: {}
+    devMode: false
+    template: null
+  },
+  {
+    title: "Optimo"
+    group: ""
+    paths: [
+      "/Users/inovakov/source/optimo_ui"
+      "/Users/inovakov/source/data_science"
+      "/Users/inovakov/source/chef"
+    ]
+    icon: "icon-chevron-right"
+    settings: {}
+    devMode: false
+    template: null
+  }
+]
