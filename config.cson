@@ -24,6 +24,9 @@
       "atom-dark-ui"
       "monokai"
     ]
+  crystal:
+    compilerColorOutput: true
+    formatOnSave: true
   editor:
     fontSize: 11
     invisibles: {}

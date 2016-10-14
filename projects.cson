@@ -5,12 +5,13 @@
     paths: [
       "/Users/inovakov/source/chef"
       "/Users/inovakov/source/SandRails"
+      "/Users/inovakov/source/SandCrystal"
     ]
     icon: "icon-chevron-right"
     settings: {}
     devMode: false
     template: null
-  },
+  }
   {
     title: "Optimo"
     group: ""
