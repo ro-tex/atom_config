@@ -20,6 +20,8 @@
       "linter-lintr"
       "whitespace"
     ]
+    projectHome: "/Users/inovakov/source"
+    telemetryConsent: "limited"
     themes: [
       "atom-dark-ui"
       "monokai"
@@ -37,7 +39,7 @@
   linter: {}
   "one-dark-ui": {}
   script:
-    enableExecTime: false
+    stopOnRerun: true
   welcome:
     showOnStartup: false
 ".latex.rd.tex.text":

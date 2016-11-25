@@ -1,7 +1,6 @@
 [
   {
     title: "SandRails"
-    group: ""
     paths: [
       "/Users/inovakov/source/chef"
       "/Users/inovakov/source/SandRails"
@@ -14,15 +13,15 @@
   }
   {
     title: "Optimo"
-    group: ""
     paths: [
       "/Users/inovakov/source/optimo_ui"
       "/Users/inovakov/source/data_science"
-      "/Users/inovakov/source/chef"
+      "/Users/inovakov/source/fetcher"
+      "/Users/inovakov/source/SandCrystal"
+      "/Users/inovakov/source/SandRails"
+      "/Users/inovakov/source/ale_websocket"
+      "/Users/inovakov/source/chef-ivo"
+      "/Users/inovakov/source/chef-rifiniti"
     ]
-    icon: "icon-chevron-right"
-    settings: {}
-    devMode: false
-    template: null
   }
 ]
