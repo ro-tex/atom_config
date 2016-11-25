@@ -5,11 +5,8 @@
       "/Users/inovakov/source/chef"
       "/Users/inovakov/source/SandRails"
       "/Users/inovakov/source/SandCrystal"
+      "/Users/inovakov/source/SandJava"
     ]
-    icon: "icon-chevron-right"
-    settings: {}
-    devMode: false
-    template: null
   }
   {
     title: "Optimo"

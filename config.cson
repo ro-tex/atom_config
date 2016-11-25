@@ -5,6 +5,8 @@
       analytics: false
       beautifyEntireFileOnSave: false
       muteUnsupportedLanguageErrors: true
+    java:
+      configPath: "~/.uncrustify/uncrustify.cfg"
     json:
       indent_with_tabs: true
       jslint_happy: true
@@ -16,12 +18,13 @@
   core:
     allowPendingPaneItems: false
     audioBeep: false
+    automaticallyUpdate: false
     disabledPackages: [
       "linter-lintr"
       "whitespace"
     ]
     projectHome: "/Users/inovakov/source"
-    telemetryConsent: "limited"
+    telemetryConsent: "no"
     themes: [
       "atom-dark-ui"
       "monokai"
