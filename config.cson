@@ -1,5 +1,12 @@
 "*":
   "atom-beautify":
+    coffeescript:
+      default_beautifier: "Coffee Formatter"
+      indent_size: 2
+      indent_with_tabs: true
+      jslint_happy: true
+      keep_array_indentation: true
+      keep_function_indentation: true
     general:
       _analyticsUserId: "a084b0a4-40e8-478a-a3e0-67180886ef55"
       analytics: false
@@ -33,6 +40,7 @@
     compilerColorOutput: true
     formatOnSave: true
   editor:
+    autoIndentOnPaste: false
     fontSize: 11
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
@@ -45,9 +53,15 @@
     stopOnRerun: true
   welcome:
     showOnStartup: false
+".coffee.source":
+  editor:
+    autoIndentOnPaste: false
 ".latex.rd.tex.text":
   editor:
     autoIndent: false
+    autoIndentOnPaste: false
+".litcoffee.source":
+  editor:
     autoIndentOnPaste: false
 ".r.source":
   editor:
