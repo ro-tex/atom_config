@@ -22,4 +22,18 @@
       "/Users/inovakov/source/chef-rifiniti"
     ]
   }
+  {
+    title: "Sand Go"
+    group: "Sandbox"
+    paths: [
+      "/Users/ivaylo.novakov/go/src/github.com/SandGo"
+    ]
+  }
+  {
+    title: "Numbrs"
+    group: "Centralway"
+    paths: [
+      "/Users/ivaylo.novakov/go/src/stash.cwc.io/backend/numbrs"
+    ]
+  }
 ]

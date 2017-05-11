@@ -1,9 +1,13 @@
 '.editor':
   'cmd-shift-f': 'atom-beautify:beautify-editor'
   'cmd-b': 'script:run'
-  
+
 'body':
   'ctrl-tab ^ctrl': 'unset!'
   'ctrl-tab': 'pane:show-next-item'
   'ctrl-shift-tab ^ctrl': 'unset!'
   'ctrl-shift-tab': 'pane:show-previous-item'
+
+'atom-workspace':
+  'alt-cmd-left': 'last-cursor-position:previous'
+  'alt-cmd-right': 'last-cursor-position:next'

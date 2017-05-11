@@ -43,13 +43,32 @@
     autoIndentOnPaste: false
     fontSize: 11
     invisibles: {}
+    tabLength: 4
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
+  "go-plus":
+    disabledBundledPackages: [
+      "go-signature-statusbar"
+      "linter"
+    ]
+    panel:
+      displayMode: "closed"
+      focusOnFailure: false
+      fontSize: "1em"
+    test:
+      coverageDisplayMode: "gutter"
+      coverageHighlightMode: "disabled"
+      runTestsOnSave: false
+      runTestsWithCoverage: false
+      runTestsWithShortFlag: false
   latex: {}
   linter: {}
+  "linter-ui-default": {}
   "one-dark-ui": {}
+  "project-manager": {}
   script:
+    cwdBehavior: "Project directory of the script"
     stopOnRerun: true
   welcome:
     showOnStartup: false
