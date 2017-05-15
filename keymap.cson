@@ -1,6 +1,7 @@
 '.editor':
   'cmd-shift-f': 'atom-beautify:beautify-editor'
   'cmd-b': 'script:run'
+  'cmd-g': 'go-to-line:toggle'
 
 'body':
   'ctrl-tab ^ctrl': 'unset!'

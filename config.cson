@@ -30,6 +30,9 @@
       "linter-lintr"
       "whitespace"
     ]
+    packagesWithKeymapsDisabled: [
+      "highlight-line"
+    ]
     projectHome: "/Users/inovakov/source"
     telemetryConsent: "no"
     themes: [
@@ -70,6 +73,12 @@
   script:
     cwdBehavior: "Project directory of the script"
     stopOnRerun: true
+  "spell-check":
+    addKnownWords: true
+    locales: [
+      "en-US"
+      "en-GB"
+    ]
   welcome:
     showOnStartup: false
 ".coffee.source":
