@@ -42,6 +42,8 @@
   crystal:
     compilerColorOutput: true
     formatOnSave: true
+  "custom-title":
+    template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %>/<% } %><%= fileName %>"
   editor:
     autoIndentOnPaste: false
     fontSize: 11
