@@ -12,6 +12,8 @@
       analytics: false
       beautifyEntireFileOnSave: false
       muteUnsupportedLanguageErrors: true
+    go:
+      beautify_on_save: true
     java:
       configPath: "~/.uncrustify/uncrustify.cfg"
     json:
@@ -29,10 +31,8 @@
   core:
     allowPendingPaneItems: false
     audioBeep: false
-    automaticallyUpdate: false
     disabledPackages: [
       "linter-lintr"
-      "whitespace"
       "wrap-guide"
       "welcome"
     ]
@@ -49,7 +49,7 @@
     compilerColorOutput: true
     formatOnSave: true
   "custom-title":
-    template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><%} %>"
+    template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
     fontSize: 11
@@ -58,31 +58,34 @@
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
-  "git-blame":
-    columnWidth: 714
   "go-plus":
-    config: {}
+    autocomplete: {}
+    config:
+      gopath: "/Users/inovakov/go"
     disabledBundledPackages: [
-      "go-signature-statusbar"
       "go-debug"
     ]
+    format: {}
+    lint: {}
+    navigator:
+      mode: "guru"
     panel:
       displayMode: "closed"
       focusOnFailure: false
       fontSize: "1em"
     test:
       coverageDisplayMode: "gutter"
-      coverageHighlightMode: "disabled"
       runTestsOnSave: false
       runTestsWithCoverage: false
       runTestsWithShortFlag: false
+  "go-signature-statusbar": {}
   latex: {}
   linter: {}
   "linter-ui-default":
     decorateOnTreeView: "None"
-    panelHeight: 81
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
+    useBusySignal: false
   "one-dark-ui": {}
   "project-manager": {}
   script:
