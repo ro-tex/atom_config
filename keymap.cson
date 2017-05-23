@@ -2,6 +2,8 @@
   'cmd-shift-f': 'atom-beautify:beautify-editor'
   'cmd-b': 'script:run'
   'cmd-g': 'go-to-line:toggle'
+  'cmd-f2': 'persistent-bookmarks:toggle-bookmark'
+  'ctrl-f2': 'persistent-bookmarks:view-all'
 
 'body':
   'ctrl-tab ^ctrl': 'unset!'

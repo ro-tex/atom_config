@@ -22,6 +22,10 @@
       space_in_paren: true
     ruby:
       indent_size: 2
+  "atom-package-deps":
+    ignored: [
+      "linter-ui-default"
+    ]
   core:
     allowPendingPaneItems: false
     audioBeep: false
@@ -30,6 +34,7 @@
       "linter-lintr"
       "whitespace"
       "wrap-guide"
+      "welcome"
     ]
     packagesWithKeymapsDisabled: [
       "highlight-line"
@@ -54,9 +59,10 @@
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
   "go-plus":
+    config: {}
     disabledBundledPackages: [
       "go-signature-statusbar"
-      "linter"
+      "go-debug"
     ]
     panel:
       displayMode: "closed"
