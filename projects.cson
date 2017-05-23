@@ -34,6 +34,7 @@
     group: "Centralway"
     paths: [
       "/Users/ivaylo.novakov/go/src/stash.cwc.io/backend/numbrs"
+      "/Users/ivaylo.novakov/source/centralway-standards"
     ]
   }
 ]

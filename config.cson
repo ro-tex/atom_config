@@ -58,6 +58,8 @@
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
+  "git-blame":
+    columnWidth: 714
   "go-plus":
     config: {}
     disabledBundledPackages: [
