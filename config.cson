@@ -29,6 +29,7 @@
     disabledPackages: [
       "linter-lintr"
       "whitespace"
+      "wrap-guide"
     ]
     packagesWithKeymapsDisabled: [
       "highlight-line"
@@ -43,7 +44,7 @@
     compilerColorOutput: true
     formatOnSave: true
   "custom-title":
-    template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %>/<% } %><%= fileName %>"
+    template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><%} %>"
   editor:
     autoIndentOnPaste: false
     fontSize: 11
@@ -69,11 +70,16 @@
       runTestsWithShortFlag: false
   latex: {}
   linter: {}
-  "linter-ui-default": {}
+  "linter-ui-default":
+    decorateOnTreeView: "None"
+    panelHeight: 81
+    statusBarClickBehavior: "Jump to next issue"
+    statusBarRepresents: "Current File"
   "one-dark-ui": {}
   "project-manager": {}
   script:
     cwdBehavior: "Project directory of the script"
+    enableExecTime: false
     stopOnRerun: true
   "spell-check":
     addKnownWords: true
