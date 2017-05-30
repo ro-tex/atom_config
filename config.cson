@@ -11,6 +11,8 @@
       _analyticsUserId: "a084b0a4-40e8-478a-a3e0-67180886ef55"
       analytics: false
       beautifyEntireFileOnSave: false
+      loggerLevel: "error"
+      muteAllErrors: true
       muteUnsupportedLanguageErrors: true
     go:
       beautify_on_save: true
@@ -75,6 +77,7 @@
       fontSize: "1em"
     test:
       coverageDisplayMode: "gutter"
+      coverageHighlightMode: "disabled"
       runTestsOnSave: false
       runTestsWithCoverage: false
       runTestsWithShortFlag: false
@@ -85,6 +88,7 @@
     decorateOnTreeView: "None"
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
+    tooltipFollows: "Mouse"
     useBusySignal: false
   "one-dark-ui": {}
   "project-manager": {}
