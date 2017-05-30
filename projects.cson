@@ -6,35 +6,22 @@
       "/Users/inovakov/source/SandRails"
       "/Users/inovakov/source/SandCrystal"
       "/Users/inovakov/source/SandJava"
-      "/Users/inovakov/source/rifiniti/optimo_ui"
     ]
   }
   {
     title: "Optimo"
     paths: [
-      "/Users/inovakov/source/optimo_ui"
-      "/Users/inovakov/source/data_science"
-      "/Users/inovakov/source/fetcher"
-      "/Users/inovakov/source/SandCrystal"
-      "/Users/inovakov/source/SandRails"
-      "/Users/inovakov/source/ale_websocket"
-      "/Users/inovakov/source/chef-ivo"
-      "/Users/inovakov/source/chef-rifiniti"
+      "/Users/inovakov/source/rifiniti/optimo_ui"
+      "/Users/inovakov/source/rifiniti/data_science"
+      "/Users/inovakov/source/rifiniti/fetcher"
+      "/Users/inovakov/source/rifiniti/ale_websocket"
+      "/Users/inovakov/source/rifiniti/chef"
     ]
   }
   {
     title: "Sand Go"
-    group: "Sandbox"
     paths: [
-      "/Users/ivaylo.novakov/go/src/github.com/SandGo"
-    ]
-  }
-  {
-    title: "Numbrs"
-    group: "Centralway"
-    paths: [
-      "/Users/ivaylo.novakov/go/src/stash.cwc.io/backend/numbrs"
-      "/Users/ivaylo.novakov/source/centralway-standards"
+      "/Users/inovakov/go/src/github.com/SandGo"
     ]
   }
 ]
