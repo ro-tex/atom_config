@@ -12,8 +12,6 @@
       analytics: false
       beautifyEntireFileOnSave: false
       loggerLevel: "error"
-      muteAllErrors: true
-      muteUnsupportedLanguageErrors: true
     go:
       beautify_on_save: true
     java:
@@ -24,12 +22,16 @@
       preserve_newlines: false
       space_after_anon_function: true
       space_in_paren: true
+    python:
+      sort_imports: true
     ruby:
       indent_size: 2
   "atom-package-deps":
     ignored: [
       "linter-ui-default"
     ]
+  "autocomplete-python":
+    useKite: false
   core:
     allowPendingPaneItems: false
     audioBeep: false

@@ -13,6 +13,13 @@
     ]
   }
   {
+    title: "Sand Py"
+    group: "Sandbox"
+    paths: [
+      "/Users/inovakov/source/SandPy"
+    ]
+  }
+  {
     title: "SandRails"
     group: "Sandbox"
     paths: [
