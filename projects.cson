@@ -39,4 +39,16 @@
       "/Users/inovakov/source/rifiniti/chef"
     ]
   }
+  {
+    title: "Sand Node"
+    paths: [
+      "/Users/inovakov/source/SandNode"
+    ]
+  }
+  {
+    title: "Docker"
+    paths: [
+      "/Users/inovakov/source/docker"
+    ]
+  }
 ]

@@ -30,11 +30,13 @@
     ignored: [
       "linter-ui-default"
     ]
+  "autocomplete-plus": {}
   "autocomplete-python":
     useKite: false
   core:
     allowPendingPaneItems: false
     audioBeep: false
+    automaticallyUpdate: false
     disabledPackages: [
       "linter-lintr"
       "wrap-guide"
@@ -88,10 +90,12 @@
   linter: {}
   "linter-ui-default":
     decorateOnTreeView: "None"
+    panelHeight: 81
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
     useBusySignal: false
+  minimap: {}
   "one-dark-ui": {}
   "project-manager": {}
   script:
