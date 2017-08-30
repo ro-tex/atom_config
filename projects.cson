@@ -4,6 +4,7 @@
     group: "Sandbox"
     paths: [
       "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
+      "/Users/inovakov/source/Spiders"
     ]
   }
   {
@@ -24,9 +25,6 @@
     group: "Sandbox"
     paths: [
       "/Users/inovakov/source/SandRails"
-      "/Users/inovakov/source/SandCrystal"
-      "/Users/inovakov/source/SandJava"
-      "/Users/inovakov/source/chef"
     ]
   }
   {
@@ -43,6 +41,8 @@
     title: "Sand Node"
     paths: [
       "/Users/inovakov/source/SandNode"
+      "/Users/inovakov/source/Cimpress/stereotype-client"
+      "/Users/inovakov/source/Cimpress/stereotype"
     ]
   }
   {

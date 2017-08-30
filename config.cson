@@ -16,7 +16,14 @@
       beautify_on_save: true
     java:
       configPath: "~/.uncrustify/uncrustify.cfg"
+    js:
+      beautify_on_save: true
+      end_with_comma: true
+      end_with_newline: true
+      indent_size: 2
+      indent_with_tabs: true
     json:
+      end_with_newline: true
       indent_with_tabs: true
       jslint_happy: true
       preserve_newlines: false
@@ -60,7 +67,6 @@
     autoIndentOnPaste: false
     fontSize: 11
     invisibles: {}
-    tabLength: 4
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
