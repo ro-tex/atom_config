@@ -21,7 +21,6 @@
       end_with_comma: true
       end_with_newline: true
       indent_size: 2
-      indent_with_tabs: true
     json:
       end_with_newline: true
       indent_with_tabs: true
@@ -94,6 +93,8 @@
   "go-signature-statusbar": {}
   latex: {}
   linter: {}
+  "linter-jshint":
+    esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
     panelHeight: 81
@@ -104,6 +105,9 @@
   minimap: {}
   "one-dark-ui": {}
   "project-manager": {}
+  refactor:
+    highlightError: false
+    highlightReference: false
   script:
     cwdBehavior: "Project directory of the script"
     enableExecTime: false
