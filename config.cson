@@ -94,7 +94,7 @@
   latex: {}
   linter: {}
   "linter-jshint":
-    esversion: 6
+    disableWhenNoJshintrcFileInPath: true
   "linter-ui-default":
     decorateOnTreeView: "None"
     panelHeight: 81
@@ -102,12 +102,12 @@
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
     useBusySignal: false
-  minimap: {}
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
   "one-dark-ui": {}
   "project-manager": {}
-  refactor:
-    highlightError: false
-    highlightReference: false
   script:
     cwdBehavior: "Project directory of the script"
     enableExecTime: false
