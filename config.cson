@@ -7,6 +7,8 @@
       jslint_happy: true
       keep_array_indentation: true
       keep_function_indentation: true
+    cs:
+      disabled: true
     general:
       _analyticsUserId: "a084b0a4-40e8-478a-a3e0-67180886ef55"
       analytics: false
@@ -17,7 +19,6 @@
     java:
       configPath: "~/.uncrustify/uncrustify.cfg"
     js:
-      beautify_on_save: true
       end_with_comma: true
       end_with_newline: true
       indent_size: 2
@@ -64,7 +65,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 11
+    fontSize: 10
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
@@ -76,7 +77,8 @@
     disabledBundledPackages: [
       "go-debug"
     ]
-    format: {}
+    format:
+      tool: "gofmt"
     lint: {}
     navigator:
       mode: "guru"
@@ -106,6 +108,7 @@
     plugins:
       "highlight-selected": true
       "highlight-selectedDecorationsZIndex": 0
+  "omnisharp-atom": {}
   "one-dark-ui": {}
   "project-manager": {}
   script:

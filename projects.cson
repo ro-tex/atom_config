@@ -1,5 +1,30 @@
 [
   {
+    title: "Cimpress"
+    paths: [
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/SandNode"
+      "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
+      "/Users/inovakov/source/dotshit"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfiller-identity"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfiller-identity-flag-updater"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/stereotype"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/stereotype-client"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfillment-location"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/pollandmail"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/puremail"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/stepcheck-service"
+      "/Users/inovakov/OneDrive - Cimpress N.V/source/ui-wrap"
+    ]
+  }
+  {
+    title: "Sand Node"
+    paths: [
+      "/Users/inovakov/source/SandNode"
+      "/Users/inovakov/source/Cimpress/stereotype-client"
+      "/Users/inovakov/source/Cimpress/stereotype"
+    ]
+  }
+  {
     title: "Sand Go"
     group: "Sandbox"
     paths: [
@@ -8,9 +33,9 @@
     ]
   }
   {
-    title: "RailsReads"
+    title: "Docker"
     paths: [
-      "/Users/inovakov/source/RailsReads"
+      "/Users/inovakov/source/docker"
     ]
   }
   {
@@ -35,20 +60,6 @@
       "/Users/inovakov/source/rifiniti/fetcher"
       "/Users/inovakov/source/rifiniti/ale_websocket"
       "/Users/inovakov/source/rifiniti/chef"
-    ]
-  }
-  {
-    title: "Sand Node"
-    paths: [
-      "/Users/inovakov/source/SandNode"
-      "/Users/inovakov/source/Cimpress/stereotype-client"
-      "/Users/inovakov/source/Cimpress/stereotype"
-    ]
-  }
-  {
-    title: "Docker"
-    paths: [
-      "/Users/inovakov/source/docker"
     ]
   }
 ]
