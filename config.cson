@@ -1,4 +1,6 @@
 "*":
+  Zen:
+    width: 500
   "atom-beautify":
     coffeescript:
       default_beautifier: "Coffee Formatter"
@@ -112,7 +114,7 @@
   "one-dark-ui": {}
   "project-manager": {}
   script:
-    cwdBehavior: "Project directory of the script"
+    cwdBehavior: "Directory of the script"
     enableExecTime: false
     stopOnRerun: true
   "spell-check":
