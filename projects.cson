@@ -1,24 +1,5 @@
 [
   {
-    title: "Cimpress"
-    paths: [
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/comment-service"
-      "/Users/inovakov/source/dotshit"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/awshovel"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfiller-configuration"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfiller-identity"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfiller-identity-flag-updater"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/fulfillment-location"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/pollandmail"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/puremail"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/stepcheck-service"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/stereotype"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/stereotype-client"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/ui-wrap"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/cimpress-fulfiller-identity"
-    ]
-  }
-  {
     title: "Sand Node"
     paths: [
       "/Users/inovakov/source/SandNode"
@@ -77,6 +58,27 @@
       "/Users/inovakov/source/Cimpress/stereotype-client"
       "/Users/inovakov/source/Cimpress/template-designer"
       "/Users/inovakov/source/Cimpress/ui-wrap"
+    ]
+  }
+  {
+    title: "Cimpress"
+    paths: [
+      "/Users/inovakov/source/cimpress-fulfiller-identity"
+      "/Users/inovakov/source/comment-service"
+      "/Users/inovakov/source/ct-node-looker"
+      "/Users/inovakov/source/fulfiller-configuration"
+      "/Users/inovakov/source/fulfiller-identity"
+      "/Users/inovakov/source/fulfiller-identity-flag-updater"
+      "/Users/inovakov/source/fulfillment-location"
+      "/Users/inovakov/source/pollandmail"
+      "/Users/inovakov/source/puremail"
+      "/Users/inovakov/source/SandNode"
+      "/Users/inovakov/source/SandPy"
+      "/Users/inovakov/source/stepcheck-service"
+      "/Users/inovakov/source/stereotype"
+      "/Users/inovakov/source/stereotype-client"
+      "/Users/inovakov/source/template-designer"
+      "/Users/inovakov/source/ui-wrap"
     ]
   }
 ]
