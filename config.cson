@@ -73,7 +73,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 11
+    fontSize: 10
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
@@ -109,8 +109,8 @@
     ignoreFixableRulesWhileTyping: true
     useGlobalEslint: true
   "linter-jshint":
-    esversion: 6
     disableWhenNoJshintrcFileInPath: true
+    esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
     statusBarClickBehavior: "Jump to next issue"
