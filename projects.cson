@@ -1,9 +1,10 @@
 [
   {
-    title: "Sand Node"
+    title: "Sand"
     paths: [
       "/Users/inovakov/source/SandNode"
-      "/Users/inovakov/OneDrive - Cimpress N.V/source/SandPy"
+      "/Users/inovakov/source/SandPy"
+      "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
     ]
   }
   {
@@ -72,6 +73,7 @@
       "/Users/inovakov/source/fulfillment-location"
       "/Users/inovakov/source/pollandmail"
       "/Users/inovakov/source/puremail"
+      "/Users/inovakov/source/react-cimpress-comment"
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/SandPy"
       "/Users/inovakov/source/stepcheck-service"
