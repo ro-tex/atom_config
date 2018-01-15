@@ -5,26 +5,13 @@
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/SandPy"
       "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
-    ]
-  }
-  {
-    title: "Sand Go"
-    group: "Sandbox"
-    paths: [
-      "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
+      "/Users/inovakov/source/sand-react"
     ]
   }
   {
     title: "Docker"
     paths: [
       "/Users/inovakov/source/docker"
-    ]
-  }
-  {
-    title: "Sand Py"
-    group: "Sandbox"
-    paths: [
-      "/Users/inovakov/source/SandPy"
     ]
   }
   {
@@ -47,23 +34,6 @@
   {
     title: "Cimpress"
     paths: [
-      "/Users/inovakov/source/Cimpress/comment-service"
-      "/Users/inovakov/source/Cimpress/fulfiller-identity"
-      "/Users/inovakov/source/Cimpress/fulfiller-identity-flag-updater"
-      "/Users/inovakov/source/Cimpress/fulfillment-location"
-      "/Users/inovakov/source/Cimpress/poll-and-mail"
-      "/Users/inovakov/source/Cimpress/puremail"
-      "/Users/inovakov/source/Cimpress/shovel-serverless"
-      "/Users/inovakov/source/Cimpress/stepcheck-service"
-      "/Users/inovakov/source/Cimpress/stereotype"
-      "/Users/inovakov/source/Cimpress/stereotype-client"
-      "/Users/inovakov/source/Cimpress/template-designer"
-      "/Users/inovakov/source/Cimpress/ui-wrap"
-    ]
-  }
-  {
-    title: "Cimpress"
-    paths: [
       "/Users/inovakov/source/cimpress-fulfiller-identity"
       "/Users/inovakov/source/comment-service"
       "/Users/inovakov/source/ct-node-looker"
@@ -74,8 +44,6 @@
       "/Users/inovakov/source/pollandmail"
       "/Users/inovakov/source/puremail"
       "/Users/inovakov/source/react-cimpress-comment"
-      "/Users/inovakov/source/SandNode"
-      "/Users/inovakov/source/SandPy"
       "/Users/inovakov/source/stepcheck-service"
       "/Users/inovakov/source/stereotype"
       "/Users/inovakov/source/stereotype-client"
