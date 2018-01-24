@@ -32,6 +32,24 @@
     ]
   }
   {
+    title: "Cimpress Home"
+    paths: [
+      "/Users/inovakov/source/Cimpress/comment-service"
+      "/Users/inovakov/source/Cimpress/fulfiller-identity"
+      "/Users/inovakov/source/Cimpress/fulfiller-identity-flag-updater"
+      "/Users/inovakov/source/Cimpress/fulfillment-location"
+      "/Users/inovakov/source/Cimpress/poll-and-mail"
+      "/Users/inovakov/source/Cimpress/puremail"
+      "/Users/inovakov/source/Cimpress/shovel-serverless"
+      "/Users/inovakov/source/Cimpress/stepcheck-service"
+      "/Users/inovakov/source/Cimpress/stereotype"
+      "/Users/inovakov/source/Cimpress/stereotype-client"
+      "/Users/inovakov/source/Cimpress/template-designer"
+      "/Users/inovakov/source/Cimpress/ui-wrap"
+      "/Users/inovakov/source/Cimpress/comment-service-mentions-handler"
+    ]
+  }
+  {
     title: "Cimpress"
     paths: [
       "/Users/inovakov/source/cimpress-fulfiller-identity"
