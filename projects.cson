@@ -1,17 +1,16 @@
 [
   {
-    title: "Sand"
+    title: "Sand Go"
+    group: "Sandbox"
     paths: [
-      "/Users/inovakov/source/SandNode"
-      "/Users/inovakov/source/SandPy"
       "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
-      "/Users/inovakov/source/sand-react"
     ]
   }
   {
-    title: "Docker"
+    title: "Sand Py"
+    group: "Sandbox"
     paths: [
-      "/Users/inovakov/source/docker"
+      "/Users/inovakov/source/SandPy"
     ]
   }
   {
@@ -22,19 +21,10 @@
     ]
   }
   {
-    title: "Optimo"
-    paths: [
-      "/Users/inovakov/source/rifiniti/optimo_ui"
-      "/Users/inovakov/source/rifiniti/data_science"
-      "/Users/inovakov/source/rifiniti/fetcher"
-      "/Users/inovakov/source/rifiniti/ale_websocket"
-      "/Users/inovakov/source/rifiniti/chef"
-    ]
-  }
-  {
     title: "Cimpress Home"
     paths: [
       "/Users/inovakov/source/Cimpress/comment-service"
+      "/Users/inovakov/source/Cimpress/comment-service-mentions-handler"
       "/Users/inovakov/source/Cimpress/fulfiller-identity"
       "/Users/inovakov/source/Cimpress/fulfiller-identity-flag-updater"
       "/Users/inovakov/source/Cimpress/fulfillment-location"
@@ -54,6 +44,7 @@
     paths: [
       "/Users/inovakov/source/cimpress-fulfiller-identity"
       "/Users/inovakov/source/comment-service"
+      "/Users/inovakov/source/comment-service-mentions-handler"
       "/Users/inovakov/source/ct-node-looker"
       "/Users/inovakov/source/fulfiller-configuration"
       "/Users/inovakov/source/fulfiller-identity"
@@ -62,6 +53,8 @@
       "/Users/inovakov/source/pollandmail"
       "/Users/inovakov/source/puremail"
       "/Users/inovakov/source/react-cimpress-comment"
+      "/Users/inovakov/source/sand-react"
+      "/Users/inovakov/source/shovel-serverless"
       "/Users/inovakov/source/stepcheck-service"
       "/Users/inovakov/source/stereotype"
       "/Users/inovakov/source/stereotype-client"
