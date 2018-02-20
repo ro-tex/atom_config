@@ -28,6 +28,10 @@
       preserve_newlines: false
       space_after_anon_function: true
       space_in_paren: true
+    jsx:
+      default_beautifier: "JS Beautify"
+      end_with_comma: true
+      end_with_newline: true
     python:
       sort_imports: true
     ruby:
@@ -46,6 +50,8 @@
       "linter-lintr"
       "wrap-guide"
       "welcome"
+      "lcov-info"
+      "vim-mode-plus"
     ]
     ignoredNames: [
       ".git"
@@ -56,9 +62,11 @@
       "Thumbs.db"
       "desktop.ini"
       "node_modules"
+      "coverage"
     ]
     packagesWithKeymapsDisabled: [
       "highlight-line"
+      "lcov-info"
     ]
     projectHome: "/Users/inovakov/source"
     telemetryConsent: "no"
@@ -66,6 +74,9 @@
       "atom-dark-ui"
       "monokai"
     ]
+  "coverage-gutter":
+    basePath: "/Users/Ivaylo Novakov/source/"
+    pathToLCOV: "./coverage/lcov.info"
   crystal:
     compilerColorOutput: true
     formatOnSave: true
@@ -102,7 +113,11 @@
       runTestsWithShortFlag: false
   "go-signature-statusbar": {}
   hyperclick: {}
+  "language-babel":
+    autoIndentJSX: true
   latex: {}
+  "lcov-info":
+    coveredType: "Uncovered Lines Only"
   linter: {}
   "linter-eslint":
     fixOnSave: true
