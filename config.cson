@@ -50,8 +50,9 @@
       "linter-lintr"
       "wrap-guide"
       "welcome"
-      "lcov-info"
       "vim-mode-plus"
+      "lcov-info"
+      "language-javascript"
     ]
     ignoredNames: [
       ".git"
@@ -66,7 +67,6 @@
     ]
     packagesWithKeymapsDisabled: [
       "highlight-line"
-      "lcov-info"
     ]
     projectHome: "/Users/inovakov/source"
     telemetryConsent: "no"
@@ -74,6 +74,7 @@
       "atom-dark-ui"
       "monokai"
     ]
+    useTreeSitterParsers: true
   "coverage-gutter":
     basePath: "/Users/Ivaylo Novakov/source/"
     pathToLCOV: "./coverage/lcov.info"
@@ -116,8 +117,7 @@
   "language-babel":
     autoIndentJSX: true
   latex: {}
-  "lcov-info":
-    coveredType: "Uncovered Lines Only"
+  "lcov-info": {}
   linter: {}
   "linter-eslint":
     fixOnSave: true
@@ -128,6 +128,7 @@
     esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
+    panelHeight: 81
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
@@ -153,6 +154,12 @@
 ".coffee.source":
   editor:
     autoIndentOnPaste: false
+".js.source":
+  editor:
+    autoIndentOnPaste: true
+".jsdoc.source":
+  editor:
+    autoIndentOnPaste: true
 ".latex.rd.tex.text":
   editor:
     autoIndent: false

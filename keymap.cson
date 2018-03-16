@@ -14,3 +14,4 @@
 'atom-workspace':
   'alt-cmd-left': 'last-cursor-position:previous'
   'alt-cmd-right': 'last-cursor-position:next'
+  'cmd-shift-r': 'golang:gorename'
