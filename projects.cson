@@ -50,9 +50,9 @@
       "/Users/inovakov/source/comment-service-mentions-handler"
       "/Users/inovakov/source/ct-node-looker"
       "/Users/inovakov/source/dowser"
-      "/Users/inovakov/source/fulfiller-configuration"
       "/Users/inovakov/source/fulfiller-identity"
       "/Users/inovakov/source/fulfiller-identity-flag-updater"
+      "/Users/inovakov/source/fulfillermanagement"
       "/Users/inovakov/source/fulfillment-location"
       "/Users/inovakov/source/gluttony"
       "/Users/inovakov/source/matchmaker"
@@ -67,7 +67,7 @@
       "/Users/inovakov/source/template-designer"
       "/Users/inovakov/source/ui-wrap"
       "/Users/inovakov/source/pylam"
-      "/Users/inovakov/source/fulfillermanagement"
+      "/Users/inovakov/source/SandNode"
     ]
   }
 ]

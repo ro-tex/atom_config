@@ -90,6 +90,8 @@
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
+  "file-types":
+    js: "source.js.jsx"
   "go-plus":
     autocomplete:
       snippetMode: "nameAndType"
