@@ -5,7 +5,6 @@
     paths: [
       "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
       "/Users/inovakov/go/src/github.com/ro-tex/lambda-warmer"
-      "/Users/inovakov/go/src/github.com/fiatjaf/jiq"
       "/Users/inovakov/source/SandNode"
     ]
   }
@@ -59,7 +58,6 @@
       "/Users/inovakov/source/pollandmail"
       "/Users/inovakov/source/puremail"
       "/Users/inovakov/source/react-cimpress-comment"
-      "/Users/inovakov/source/sand-react"
       "/Users/inovakov/source/shovel-serverless"
       "/Users/inovakov/source/stepcheck-service"
       "/Users/inovakov/source/stereotype"
@@ -68,6 +66,7 @@
       "/Users/inovakov/source/ui-wrap"
       "/Users/inovakov/source/pylam"
       "/Users/inovakov/source/SandNode"
+      "/Users/inovakov/source/sand_react"
     ]
   }
 ]
