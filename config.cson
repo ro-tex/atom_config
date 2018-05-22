@@ -100,7 +100,8 @@
     disabledBundledPackages: [
       "go-debug"
     ]
-    format: {}
+    format:
+      tool: "gofmt"
     lint: {}
     navigator:
       mode: "guru"
@@ -117,7 +118,7 @@
   "go-signature-statusbar": {}
   hyperclick: {}
   "language-babel":
-    autoIndentJSX: true
+    disableWhenNoBabelrcFileInPath: false
   latex: {}
   "lcov-info": {}
   linter: {}
@@ -130,7 +131,6 @@
     esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
-    panelHeight: 81
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
@@ -151,6 +151,8 @@
       "en-US"
       "en-GB"
     ]
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".coffee.source":

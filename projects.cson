@@ -3,9 +3,8 @@
     title: "Sand Go"
     group: "Sandbox"
     paths: [
-      "/Users/inovakov/go/src/github.com/ro-tex/SandGo"
-      "/Users/inovakov/go/src/github.com/ro-tex/lambda-warmer"
-      "/Users/inovakov/source/SandNode"
+      "/Users/inovakov/source/SandGo"
+      "/Users/inovakov/source/lambda-warmer"
     ]
   }
   {
@@ -25,11 +24,16 @@
   {
     title: "Cimpress Home"
     paths: [
+      "/Users/inovakov/source/Cimpress/cimpress-translations"
+      "/Users/inovakov/source/Cimpress/cimpress-translations-webpack-plugin"
       "/Users/inovakov/source/Cimpress/comment-service"
       "/Users/inovakov/source/Cimpress/comment-service-mentions-handler"
+      "/Users/inovakov/source/Cimpress/dowser"
       "/Users/inovakov/source/Cimpress/fulfiller-identity"
       "/Users/inovakov/source/Cimpress/fulfiller-identity-flag-updater"
       "/Users/inovakov/source/Cimpress/fulfillment-location"
+      "/Users/inovakov/source/Cimpress/gluttony"
+      "/Users/inovakov/source/Cimpress/matchmaker"
       "/Users/inovakov/source/Cimpress/poll-and-mail"
       "/Users/inovakov/source/Cimpress/puremail"
       "/Users/inovakov/source/Cimpress/react-cimpress-comment"
