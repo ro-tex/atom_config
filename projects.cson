@@ -7,6 +7,12 @@
     ]
   }
   {
+    title: "SandNode"
+    paths: [
+      "/Users/inovakov/source/SandNode"
+    ]
+  }
+  {
     title: "SandPy"
     paths: [
       "/Users/inovakov/source/SandPy"
@@ -49,6 +55,7 @@
     title: "Cimpress"
     paths: [
       "/Users/inovakov/source/cimpress-fulfiller-identity"
+      "/Users/inovakov/source/cimpress-translations"
       "/Users/inovakov/source/comment-service"
       "/Users/inovakov/source/comment-service-mentions-handler"
       "/Users/inovakov/source/ct-node-looker"
@@ -71,6 +78,7 @@
       "/Users/inovakov/source/pylam"
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/sand_react"
+      "/Users/inovakov/source/SmushIt"
     ]
   }
 ]
