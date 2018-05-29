@@ -151,8 +151,7 @@
       "en-US"
       "en-GB"
     ]
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
 ".coffee.source":

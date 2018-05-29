@@ -1,29 +1,28 @@
 [
   {
-    title: "Sand Go"
-    group: "Sandbox"
+    title: "SandGo"
     paths: [
-      "/Users/inovakov/source/SandGo"
       "/Users/inovakov/source/lambda-warmer"
+      "/Users/inovakov/source/SandGo"
     ]
   }
   {
-    title: "Sand Py"
-    group: "Sandbox"
+    title: "SandPy"
     paths: [
       "/Users/inovakov/source/SandPy"
     ]
   }
   {
     title: "SandRails"
-    group: "Sandbox"
     paths: [
       "/Users/inovakov/source/SandRails"
+      "/Users/inovakov/source/SandCrystal"
     ]
   }
   {
     title: "Cimpress Home"
     paths: [
+      "/Users/inovakov/source/Cimpress/cimpress-fulfiller-identity"
       "/Users/inovakov/source/Cimpress/cimpress-translations"
       "/Users/inovakov/source/Cimpress/cimpress-translations-webpack-plugin"
       "/Users/inovakov/source/Cimpress/comment-service"
@@ -43,6 +42,7 @@
       "/Users/inovakov/source/Cimpress/stereotype-client"
       "/Users/inovakov/source/Cimpress/template-designer"
       "/Users/inovakov/source/Cimpress/ui-wrap"
+      "/Users/inovakov/source/SandNode"
     ]
   }
   {
