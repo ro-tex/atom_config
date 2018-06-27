@@ -55,6 +55,7 @@
     title: "Cimpress"
     paths: [
       "/Users/inovakov/source/cimpress-fulfiller-identity"
+      "/Users/inovakov/source/cimpress-io-dns"
       "/Users/inovakov/source/cimpress-translations"
       "/Users/inovakov/source/comment-service"
       "/Users/inovakov/source/comment-service-mentions-handler"
@@ -80,7 +81,13 @@
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/sand_react"
       "/Users/inovakov/source/SmushIt"
-      "/Users/inovakov/source/cimpress-io-dns"
+      "/Users/inovakov/source/load-test"
+    ]
+  }
+  {
+    title: "Sand Go"
+    paths: [
+      "/Users/inovakov/source/SandGo"
     ]
   }
 ]

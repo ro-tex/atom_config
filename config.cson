@@ -50,8 +50,6 @@
       "linter-lintr"
       "wrap-guide"
       "welcome"
-      "vim-mode-plus"
-      "lcov-info"
       "language-javascript"
     ]
     ignoredNames: [
