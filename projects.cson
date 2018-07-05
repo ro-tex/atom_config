@@ -54,12 +54,15 @@
   {
     title: "Cimpress"
     paths: [
+      "/Users/inovakov/source/authorizer"
+      "/Users/inovakov/source/aws-architect"
       "/Users/inovakov/source/cimpress-fulfiller-identity"
       "/Users/inovakov/source/cimpress-io-dns"
       "/Users/inovakov/source/cimpress-translations"
       "/Users/inovakov/source/comment-service"
       "/Users/inovakov/source/comment-service-mentions-handler"
       "/Users/inovakov/source/ct-node-looker"
+      "/Users/inovakov/source/customizr"
       "/Users/inovakov/source/dowser"
       "/Users/inovakov/source/fulfiller-identity"
       "/Users/inovakov/source/fulfiller-identity-flag-updater"
@@ -68,6 +71,7 @@
       "/Users/inovakov/source/gluttony"
       "/Users/inovakov/source/home"
       "/Users/inovakov/source/matchmaker"
+      "/Users/inovakov/source/openapi-factory.js"
       "/Users/inovakov/source/pollandmail"
       "/Users/inovakov/source/puremail"
       "/Users/inovakov/source/react-cimpress-comment"
@@ -77,11 +81,10 @@
       "/Users/inovakov/source/stereotype-client"
       "/Users/inovakov/source/template-designer"
       "/Users/inovakov/source/ui-wrap"
-      "/Users/inovakov/source/pylam"
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/sand_react"
-      "/Users/inovakov/source/SmushIt"
       "/Users/inovakov/source/load-test"
+      "/Users/inovakov/source/test"
     ]
   }
   {
