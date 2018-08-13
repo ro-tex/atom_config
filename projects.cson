@@ -59,10 +59,10 @@
       "/Users/inovakov/source/caller"
       "/Users/inovakov/source/cimpress-fulfiller-identity"
       "/Users/inovakov/source/cimpress-fulfillment-location"
+      "/Users/inovakov/source/cimpress-translations"
       "/Users/inovakov/source/comment-service"
       "/Users/inovakov/source/comment-service_arch"
       "/Users/inovakov/source/comment-service-mentions-handler"
-      "/Users/inovakov/source/cimpress-translations"
       "/Users/inovakov/source/cimpress-translations-webpack-plugin"
       "/Users/inovakov/source/dowser"
       "/Users/inovakov/source/fulfiller-identity"
@@ -73,6 +73,8 @@
       "/Users/inovakov/source/gluttony"
       "/Users/inovakov/source/home"
       "/Users/inovakov/source/lambda-boilerplate"
+      "/Users/inovakov/source/machine-configuration-service"
+      "/Users/inovakov/source/machine-manager"
       "/Users/inovakov/source/matchmaker"
       "/Users/inovakov/source/pollandmail"
       "/Users/inovakov/source/puremail"
@@ -87,6 +89,7 @@
       "/Users/inovakov/source/sand_react"
       "/Users/inovakov/source/load-test"
       "/Users/inovakov/source/test"
+      "/Users/inovakov/source/translations"
     ]
   }
   {
