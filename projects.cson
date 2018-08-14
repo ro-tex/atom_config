@@ -4,6 +4,7 @@
     paths: [
       "/Users/inovakov/source/lambda-warmer"
       "/Users/inovakov/source/SandGo"
+      "/Users/inovakov/go/src/gitlab.com/ro-tex/go-lambda-example"
     ]
   }
   {

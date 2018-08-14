@@ -131,7 +131,6 @@
     esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
-    panelHeight: 81
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
