@@ -1,29 +1,12 @@
 [
   {
-    title: "SandGo"
-    paths: [
-      "/Users/inovakov/source/lambda-warmer"
-      "/Users/inovakov/source/SandGo"
-      "/Users/inovakov/go/src/gitlab.com/ro-tex/go-lambda-example"
-    ]
-  }
-  {
-    title: "SandNode"
+    title: "Sand"
     paths: [
       "/Users/inovakov/source/SandNode"
-    ]
-  }
-  {
-    title: "SandPy"
-    paths: [
-      "/Users/inovakov/source/SandPy"
-    ]
-  }
-  {
-    title: "SandRails"
-    paths: [
-      "/Users/inovakov/source/SandRails"
-      "/Users/inovakov/source/SandCrystal"
+      "/Users/inovakov/source/SandGo"
+      "/Users/inovakov/source/lambda-warmer"
+      "/Users/inovakov/go/src/gitlab.com/ro-tex/go-lambda-example"
+      "/Users/inovakov/source/LoSho"
     ]
   }
   {
@@ -51,6 +34,8 @@
       "/Users/inovakov/source/Cimpress/ui-wrap"
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/Cimpress/LoadTest"
+      "/Users/inovakov/source/fkill-cli"
+      "/Users/inovakov/source/Cimpress/translations"
     ]
   }
   {
@@ -91,12 +76,6 @@
       "/Users/inovakov/source/load-test"
       "/Users/inovakov/source/test"
       "/Users/inovakov/source/translations"
-    ]
-  }
-  {
-    title: "Sand Go"
-    paths: [
-      "/Users/inovakov/source/SandGo"
     ]
   }
 ]
