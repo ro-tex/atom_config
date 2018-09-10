@@ -12,6 +12,7 @@
   {
     title: "Cimpress Home"
     paths: [
+      "/Users/inovakov/source/Cimpress/authorizer"
       "/Users/inovakov/source/Cimpress/cimpress-fulfiller-identity"
       "/Users/inovakov/source/Cimpress/cimpress-translations"
       "/Users/inovakov/source/Cimpress/cimpress-translations-webpack-plugin"
@@ -31,11 +32,11 @@
       "/Users/inovakov/source/Cimpress/stereotype"
       "/Users/inovakov/source/Cimpress/stereotype-client"
       "/Users/inovakov/source/Cimpress/template-designer"
+      "/Users/inovakov/source/Cimpress/translations"
+      "/Users/inovakov/source/Cimpress/translation-manager"
       "/Users/inovakov/source/Cimpress/ui-wrap"
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/Cimpress/LoadTest"
-      "/Users/inovakov/source/fkill-cli"
-      "/Users/inovakov/source/Cimpress/translations"
     ]
   }
   {
