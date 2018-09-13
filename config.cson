@@ -14,7 +14,6 @@
       loggerLevel: "error"
     go:
       beautify_on_save: true
-      default_beautifier: "goimports"
     java:
       configPath: "~/.uncrustify/uncrustify.cfg"
     js:
@@ -87,7 +86,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 10
+    fontSize: 12
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
