@@ -14,6 +14,8 @@
       loggerLevel: "error"
     go:
       beautify_on_save: true
+      default_beautifier: "goimports"
+      disabled: true
     java:
       configPath: "~/.uncrustify/uncrustify.cfg"
     js:
@@ -86,7 +88,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 12
+    fontSize: 10
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
@@ -94,13 +96,11 @@
   "go-plus":
     autocomplete:
       snippetMode: "nameAndType"
-    config:
-      gopath: "/Users/inovakov/go"
+    config: {}
     disabledBundledPackages: [
       "go-debug"
     ]
-    format:
-      tool: "gofmt"
+    format: {}
     lint: {}
     navigator:
       mode: "guru"
