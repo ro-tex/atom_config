@@ -4,13 +4,14 @@
     paths: [
       "/Users/inovakov/source/SandNode"
       "/Users/inovakov/source/SandGo"
+      "/Users/inovakov/source/auth_ext"
       "/Users/inovakov/source/lambda-warmer"
       "/Users/inovakov/go/src/gitlab.com/ro-tex/go-lambda-example"
       "/Users/inovakov/source/LoSho"
     ]
   }
   {
-    title: "Cimpress Home"
+    title: "Cimpress Home Trdelnik"
     paths: [
       "/Users/inovakov/source/Cimpress/authorizer"
       "/Users/inovakov/source/Cimpress/cimpress-fulfiller-identity"
@@ -37,7 +38,6 @@
       "/Users/inovakov/source/Cimpress/translation-manager"
       "/Users/inovakov/source/Cimpress/ui-wrap"
       "/Users/inovakov/source/SandNode"
-      "/Users/inovakov/source/Cimpress/LoadTest"
     ]
   }
   {
@@ -78,6 +78,20 @@
       "/Users/inovakov/source/load-test"
       "/Users/inovakov/source/test"
       "/Users/inovakov/source/translations"
+    ]
+  }
+  {
+    title: "Cimpress Home AT"
+    paths: [
+      "/Users/inovakov/source/Cimpress/cimpress-translations"
+      "/Users/inovakov/source/Cimpress/filter-service"
+      "/Users/inovakov/source/Cimpress/fom"
+      "/Users/inovakov/source/Cimpress/nonsense"
+      "/Users/inovakov/source/Cimpress/notifier"
+      "/Users/inovakov/source/Cimpress/pizza-order-assistant"
+      "/Users/inovakov/source/Cimpress/pom"
+      "/Users/inovakov/source/Cimpress/translation-manager"
+      "/Users/inovakov/source/Cimpress/translations"
     ]
   }
 ]
