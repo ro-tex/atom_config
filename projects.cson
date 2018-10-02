@@ -83,7 +83,9 @@
   {
     title: "Cimpress Home AT"
     paths: [
+      "/Users/inovakov/source/Cimpress/aws-infrastructure"
       "/Users/inovakov/source/Cimpress/cimpress-translations"
+      "/Users/inovakov/source/Cimpress/eslint-config-cimpress-atsquad"
       "/Users/inovakov/source/Cimpress/filter-service"
       "/Users/inovakov/source/Cimpress/fom"
       "/Users/inovakov/source/Cimpress/nonsense"
