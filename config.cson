@@ -67,6 +67,7 @@
       "desktop.ini"
       "node_modules"
       "coverage"
+      "build"
     ]
     packagesWithKeymapsDisabled: [
       "highlight-line"
@@ -88,7 +89,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 11
+    fontSize: 10
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
@@ -136,6 +137,17 @@
     useBusySignal: false
   minimap: {}
   "one-dark-ui": {}
+  "platformio-ide-terminal":
+    core:
+      workingDirectory: "Active File"
+    style:
+      defaultPanelHeight: "200px"
+      fontSize: "11"
+      theme: "novel"
+    toggles:
+      autoClose: true
+      cursorBlink: false
+      runInsertedText: false
   "project-manager": {}
   refactor:
     highlightError: false
