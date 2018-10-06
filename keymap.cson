@@ -3,6 +3,7 @@
   'cmd-shift-f': 'atom-beautify:beautify-editor'
   'cmd-b': 'script:run'
   'cmd-g': 'go-to-line:toggle'
+  'ctrl-shift-`': 'platformio-ide-terminal:focus'
 
 'body':
   'ctrl-tab ^ctrl': 'unset!'
