@@ -62,15 +62,17 @@
     paths: [
       "/Users/inovakov/source/aws-infrastructure"
       "/Users/inovakov/source/cimpress-translations"
+      "/Users/inovakov/source/customizr"
+      "/Users/inovakov/source/elastic-search-proxy"
       "/Users/inovakov/source/eslint-config-cimpress-atsquad"
       "/Users/inovakov/source/filter-service"
       "/Users/inovakov/source/fom"
+      "/Users/inovakov/source/kibana-local"
       "/Users/inovakov/source/nonsense"
       "/Users/inovakov/source/notifier"
       "/Users/inovakov/source/pom"
       "/Users/inovakov/source/translation-manager"
       "/Users/inovakov/source/translations"
-      "/Users/inovakov/source/stereotype"
     ]
   }
   {
