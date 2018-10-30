@@ -6,9 +6,8 @@
       "/Users/inovakov/source/SandGo"
       "/Users/inovakov/source/LoSho"
       "/Users/inovakov/source/auth_ext"
-      "/Users/inovakov/source/lambda-warmer"
-      "/Users/inovakov/go/src/gitlab.com/ro-tex/go-lambda-example"
-      "/Users/inovakov/source/lambda-boilerplate"
+      "/Users/inovakov/source/go-lambda-example"
+      "/Users/inovakov/source/SandRust"
     ]
   }
   {
@@ -73,6 +72,7 @@
       "/Users/inovakov/source/pom"
       "/Users/inovakov/source/translation-manager"
       "/Users/inovakov/source/translations"
+      "/Users/inovakov/source/SandNode"
     ]
   }
   {
