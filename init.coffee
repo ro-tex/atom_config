@@ -13,3 +13,7 @@
 atom.commands.add 'atom-text-editor',
   'custom:insert-n': ->
     atom.workspace.getActiveTextEditor()?.insertText('n')
+
+atom.workspace.observeTextEditors (editor) ->
+  if not editor.getPath()
+    editor.setGrammar(atom.grammars.grammarForScopeName("source.json"))

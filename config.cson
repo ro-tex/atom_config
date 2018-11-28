@@ -124,6 +124,8 @@
       runTestsWithShortFlag: false
   "go-signature-statusbar": {}
   hyperclick: {}
+  "ide-rust":
+    rlsToolchain: "stable"
   "language-babel":
     disableWhenNoBabelrcFileInPath: false
   latex: {}
@@ -132,7 +134,15 @@
   "linter-eslint":
     fixOnSave: true
     ignoreFixableRulesWhileTyping: true
-    useGlobalEslint: true
+    scopes: [
+      "source.js"
+      "source.jsx"
+      "source.js.jsx"
+      "source.babel"
+      "source.js-semantic"
+      "source.ts"
+      "source.tsx"
+    ]
   "linter-jshint":
     disableWhenNoJshintrcFileInPath: true
     esversion: 6
