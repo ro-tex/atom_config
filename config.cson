@@ -39,6 +39,9 @@
       sort_imports: true
     ruby:
       indent_size: 2
+  "atom-ide-ui":
+    "atom-ide-code-format":
+      formatOnSave: true
   "atom-package-deps":
     ignored: [
       "linter-ui-default"

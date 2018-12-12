@@ -7,6 +7,7 @@
       "/Users/inovakov/source/LoSho"
       "/Users/inovakov/source/auth_ext"
       "/Users/inovakov/source/go-lambda-example"
+      "/Users/inovakov/go/src/gitlab.com/ro-tex/go-lambda-example"
       "/Users/inovakov/source/SandRust"
       "/Users/inovakov/source/dotSand"
     ]
@@ -28,36 +29,6 @@
     ]
   }
   {
-    title: "Cimpress Home Trdelnik"
-    paths: [
-      "/Users/inovakov/source/Cimpress/authorizer"
-      "/Users/inovakov/source/Cimpress/cimpress-fulfiller-identity"
-      "/Users/inovakov/source/Cimpress/cimpress-translations"
-      "/Users/inovakov/source/Cimpress/cimpress-translations-webpack-plugin"
-      "/Users/inovakov/source/Cimpress/comment-service"
-      "/Users/inovakov/source/Cimpress/comment-service-mentions-handler"
-      "/Users/inovakov/source/Cimpress/dowser"
-      "/Users/inovakov/source/Cimpress/fulfiller-identity"
-      "/Users/inovakov/source/Cimpress/fulfiller-identity-flag-updater"
-      "/Users/inovakov/source/Cimpress/fulfillment-location"
-      "/Users/inovakov/source/Cimpress/gluttony"
-      "/Users/inovakov/source/Cimpress/grunt-aws-swaggerimport-cimpress"
-      "/Users/inovakov/source/Cimpress/matchmaker"
-      "/Users/inovakov/source/Cimpress/poll-and-mail"
-      "/Users/inovakov/source/Cimpress/puremail"
-      "/Users/inovakov/source/Cimpress/react-cimpress-comment"
-      "/Users/inovakov/source/Cimpress/shovel-serverless"
-      "/Users/inovakov/source/Cimpress/stepcheck-service"
-      "/Users/inovakov/source/Cimpress/stereotype"
-      "/Users/inovakov/source/Cimpress/stereotype-client"
-      "/Users/inovakov/source/Cimpress/template-designer"
-      "/Users/inovakov/source/Cimpress/translations"
-      "/Users/inovakov/source/Cimpress/translation-manager"
-      "/Users/inovakov/source/Cimpress/ui-wrap"
-      "/Users/inovakov/source/SandNode"
-    ]
-  }
-  {
     title: "Cimpress AT"
     paths: [
       "/Users/inovakov/source/aws-infrastructure"
@@ -75,39 +46,6 @@
       "/Users/inovakov/source/translation-manager"
       "/Users/inovakov/source/translations"
       "/Users/inovakov/source/SandNode"
-    ]
-  }
-  {
-    title: "Cimpress Trdelnik"
-    paths: [
-      "/Users/inovakov/source/authorizer"
-      "/Users/inovakov/source/caller"
-      "/Users/inovakov/source/cimpress-fulfiller-identity"
-      "/Users/inovakov/source/cimpress-fulfillment-location"
-      "/Users/inovakov/source/cimpress-translations"
-      "/Users/inovakov/source/cimpress-translations-webpack-plugin"
-      "/Users/inovakov/source/comment-service"
-      "/Users/inovakov/source/comment-service-mentions-handler"
-      "/Users/inovakov/source/dowser"
-      "/Users/inovakov/source/fulfiller-identity"
-      "/Users/inovakov/source/fulfiller-identity-flag-updater"
-      "/Users/inovakov/source/fulfillment-location"
-      "/Users/inovakov/source/gluttony"
-      "/Users/inovakov/source/grunt-aws-swaggerimport"
-      "/Users/inovakov/source/home"
-      "/Users/inovakov/source/machine-configuration-service"
-      "/Users/inovakov/source/machine-manager"
-      "/Users/inovakov/source/matchmaker"
-      "/Users/inovakov/source/pollandmail"
-      "/Users/inovakov/source/puremail"
-      "/Users/inovakov/source/react-cimpress-comment"
-      "/Users/inovakov/source/shovel-serverless"
-      "/Users/inovakov/source/stepcheck-service"
-      "/Users/inovakov/source/stereotype"
-      "/Users/inovakov/source/stereotype-client"
-      "/Users/inovakov/source/template-designer"
-      "/Users/inovakov/source/ui-wrap"
-      "/Users/inovakov/source/load-test"
     ]
   }
 ]
