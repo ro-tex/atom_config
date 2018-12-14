@@ -42,10 +42,14 @@
   "atom-ide-ui":
     "atom-ide-code-format":
       formatOnSave: true
+    use:
+      "atom-ide-diagnostics-ui": "never"
   "atom-package-deps":
     ignored: [
       "linter-ui-default"
     ]
+  "atom-typescript":
+    ignoreUnusedSuggestionDiagnostics: true
   "autocomplete-plus": {}
   "autocomplete-python":
     useKite: false
@@ -61,11 +65,6 @@
       "wrap-guide"
       "welcome"
       "language-javascript"
-      "linter"
-      "ide-go"
-      "ide-json"
-      "ide-vue"
-      "linter-rust"
     ]
     ignoredNames: [
       ".git"
@@ -81,6 +80,7 @@
     ]
     packagesWithKeymapsDisabled: [
       "highlight-line"
+      "platformio-ide-terminal"
     ]
     projectHome: "/Users/inovakov/source"
     telemetryConsent: "no"
@@ -99,11 +99,15 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 10
+    fontSize: 11
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "dc6ad83a-018f-00ef-c120-bc01438f552b"
+  "git-blame":
+    colorCommitAuthors: true
+    columnWidth: 183
+    showHash: false
   "go-plus":
     autocomplete:
       snippetMode: "nameAndType"
@@ -151,10 +155,13 @@
     esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
+    panelHeight: 300
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
     useBusySignal: false
+  "markdown-preview":
+    breakOnSingleNewline: true
   minimap: {}
   "one-dark-ui": {}
   "platformio-ide-terminal":

@@ -31,6 +31,7 @@
     paths: [
       "/Users/inovakov/source/aws-infrastructure"
       "/Users/inovakov/source/cimpress-translations"
+      "/Users/inovakov/source/cloudy-sumo"
       "/Users/inovakov/source/customizr"
       "/Users/inovakov/source/elastic-search-proxy"
       "/Users/inovakov/source/eslint-config-cimpress-atsquad"
@@ -44,6 +45,7 @@
       "/Users/inovakov/source/translation-manager"
       "/Users/inovakov/source/translations"
       "/Users/inovakov/source/SandNode"
+      "/Users/inovakov/source/tests9"
     ]
   }
 ]
