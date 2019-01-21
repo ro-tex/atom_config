@@ -99,7 +99,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 11
+    fontSize: 12
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
@@ -139,8 +139,9 @@
   "lcov-info": {}
   linter: {}
   "linter-eslint":
-    fixOnSave: true
-    ignoreFixableRulesWhileTyping: true
+    autofix:
+      fixOnSave: true
+      ignoreFixableRulesWhileTyping: true
     scopes: [
       "source.js"
       "source.jsx"
