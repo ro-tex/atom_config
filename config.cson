@@ -10,7 +10,6 @@
     cs:
       disabled: true
     general:
-      _analyticsUserId: "a084b0a4-40e8-478a-a3e0-67180886ef55"
       analytics: false
       beautifyEntireFileOnSave: false
       loggerLevel: "error"
@@ -38,7 +37,9 @@
     python:
       sort_imports: true
     ruby:
+      disabled: true
       indent_size: 2
+    rust: {}
   "atom-ide-ui":
     "atom-ide-code-format":
       formatOnSave: true
@@ -99,7 +100,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 12
+    fontSize: 11
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
