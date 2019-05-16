@@ -8,3 +8,4 @@
 /storage/
 /dev/
 /.npm/
+*.atom-socket-secret-*

@@ -40,6 +40,9 @@
       disabled: true
       indent_size: 2
     rust: {}
+    typescript:
+      beautify_on_save: true
+      default_beautifier: "Prettier"
   "atom-ide-ui":
     "atom-ide-code-format":
       formatOnSave: true
@@ -100,7 +103,7 @@
     template: "<% if (projectName) { %>[ <%= projectName %> ]<% } %> <% if (relativeFilePath && relativeFilePath != fileName) { %><%= relativeFilePath %><% } else { %><%= fileName %><% }%>"
   editor:
     autoIndentOnPaste: false
-    fontSize: 11
+    fontSize: 12
     invisibles: {}
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
@@ -157,7 +160,7 @@
     esversion: 6
   "linter-ui-default":
     decorateOnTreeView: "None"
-    panelHeight: 300
+    panelHeight: 81
     statusBarClickBehavior: "Jump to next issue"
     statusBarRepresents: "Current File"
     tooltipFollows: "Mouse"
