@@ -30,3 +30,15 @@ atom-text-editor {
 atom-text-editor::shadow .cursor {
   // border-color: red;
 }
+
+atom-text-editor {
+  .line-number {
+    color: #9a9a9a;
+    opacity: 1;
+  }
+  .gutter .line-number.bookmarked .icon-right {
+    &:before {
+      color: #F60;
+    }
+  }
+}
