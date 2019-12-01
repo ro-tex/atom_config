@@ -3,7 +3,7 @@
   'cmd-shift-f': 'atom-beautify:beautify-editor'
   'cmd-b': 'script:run'
   'cmd-g': 'go-to-line:toggle'
-  'cmd-`': 'platformio-ide-terminal:focus'
+  'ctrl-`': 'platformio-ide-terminal:focus'
   'shift-f6': 'typescript:rename-refactor'
 
 'body':
